@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[params[:${1:id}]]]></content>
+  <tabTrigger>pa</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

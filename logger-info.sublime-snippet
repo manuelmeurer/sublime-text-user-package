@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+Rails.logger.info ${1:"${2:${3:foo} = #{${3:foo}\}}"}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>rli</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.ruby</scope>
+</snippet>

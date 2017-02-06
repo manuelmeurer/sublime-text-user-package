@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+each_with_object(${1:{\}}) do |${2:element}, ${3:hash}|
+  $0
+end
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>ewo</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
