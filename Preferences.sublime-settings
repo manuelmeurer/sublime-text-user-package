@@ -1,6 +1,13 @@
 {
 	"always_show_minimap_viewport": true,
 	"auto_complete_commit_on_tab": true,
+	"binary_file_patterns":
+	[
+		"*.sublime-*",
+		"tmp/",
+		"log/",
+		"node_modules/"
+	],
 	"bold_folder_labels": true,
 	"caret_extra_bottom": 1,
 	"caret_extra_top": 1,
@@ -9,17 +16,6 @@
 	"detect_indentation": false,
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
-	"file_exclude_patterns":
-	[
-		"*.sublime-*",
-		".*"
-	],
-	"folder_exclude_patterns":
-	[
-		".*",
-		"tmp",
-		"log"
-	],
 	"font_face": "BitStream Vera Sans Mono",
 	"font_options":
 	[
