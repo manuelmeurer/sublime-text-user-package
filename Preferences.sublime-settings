@@ -22,7 +22,7 @@
 		"gray_antialias",
 		"subpixel_antialias"
 	],
-	"font_size": 12,
+	"font_size": 14,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -45,5 +45,6 @@
 	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true
+	"word_wrap": true,
+	"hot_exit": false
 }
