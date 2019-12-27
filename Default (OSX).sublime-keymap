@@ -1,4 +1,5 @@
 [
+  { "keys": ["ctrl+d"], "command": "dash_doc"},
   { "keys": ["alt+tab"], "command": "indent" },
   { "keys": ["alt+shift+tab"], "command": "unindent" },
   { "keys": ["ctrl+alt+r"], "command": "side_bar_move" },
