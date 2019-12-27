@@ -24,6 +24,7 @@
 	],
 	"font_size": 14,
 	"highlight_line": true,
+	"hot_exit": false,
 	"ignored_packages":
 	[
 		"ActionScript",
@@ -40,11 +41,11 @@
 	"overlay_scroll_bars": "enabled",
 	"show_encoding": true,
 	"show_line_endings": true,
+	"show_navigation_bar": false,
 	"soda_folder_icons": true,
 	"tab_size": 2,
 	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true,
-	"hot_exit": false
+	"word_wrap": true
 }
